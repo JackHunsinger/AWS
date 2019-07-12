@@ -1,0 +1,16 @@
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWS App.exe.config
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWS App.exe
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWS App.pdb
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWSSDK.Core.dll
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWSSDK.S3.dll
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWSSDK.Core.pdb
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWSSDK.Core.xml
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWSSDK.S3.pdb
+F:\GITHUB\AWS\AWS App\AWS App\bin\Debug\AWSSDK.S3.xml
+F:\GITHUB\AWS\AWS App\AWS App\obj\Debug\AWS App.csprojAssemblyReference.cache
+F:\GITHUB\AWS\AWS App\AWS App\obj\Debug\AWS_App.Properties.Resources.resources
+F:\GITHUB\AWS\AWS App\AWS App\obj\Debug\AWS App.csproj.GenerateResource.cache
+F:\GITHUB\AWS\AWS App\AWS App\obj\Debug\AWS App.csproj.CoreCompileInputs.cache
+F:\GITHUB\AWS\AWS App\AWS App\obj\Debug\AWS App.csproj.CopyComplete
+F:\GITHUB\AWS\AWS App\AWS App\obj\Debug\AWS App.exe
+F:\GITHUB\AWS\AWS App\AWS App\obj\Debug\AWS App.pdb
